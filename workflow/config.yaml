@@ -9,12 +9,12 @@ hmm_base: /work/projects/hmm
 # )
 
 # what to run
-years: ["2022preEE", "2022postEE", "2023", "2023BPix", "2024"]
+# years: ["2022preEE", "2022postEE", "2023", "2023BPix", "2024"]
 # years: ["2022preEE", "2023", "2023BPix"]
 # years: ["2022preEE", "2022postEE"]
 # years: ["2022preEE"]
 # years: ["2022postEE"]
-# years: ["2024"]
+years: ["2016preVFP", "2016postVFP", "2017", "2018"]
 # years: ["2023", "2023BPix"]
 # years: ["2022preEE", "2022postEE", "2023", "2023BPix", "2024", "2016preVFP", "2016postVFP", "2017", "2018"]
 # run_tag: "FilterJetsHorn30GeV_Feb23_tightPassLepVeto_NoJER_AddVars_v2"
@@ -35,7 +35,7 @@ years: ["2022preEE", "2022postEE", "2023", "2023BPix", "2024"]
 # run_tag: "test_14apr"
 
 
-run_tag: "FilterJets_May14_PySR07MayV2"
+run_tag: "July5"
 
 # dask gateway
 use_gateway: true

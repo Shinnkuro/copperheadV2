@@ -2,6 +2,7 @@
 
 samples_to_run = None  # if not None, only run these samples (overrides samples_to_skip)
 
+samples_to_run = ["dyTo2Mu_M-50_MiNNLO"]
 # samples_to_run = [
 #     # "dyTo2L_M-50_incl",
 #     # "dyTo2Mu_M-50_aMCatNLO",
